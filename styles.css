@@ -1,0 +1,106 @@
+.header {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  font-size: 30px;
+  margin-bottom: 18px;
+  font-family: 'Gloock', serif;
+  border-bottom: 1px dashed #d3d3d3;
+  margin-top: 55px;
+}
+
+.colors {
+  font-size: 51px;
+  font-style: bold;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  padding-top: 48px;
+  padding-bottom: 25px;
+  margin: 8px;
+  color: white;
+  display: inline-block;
+ font-family: 'Oswald', sans-serif;
+}
+
+.colors-sub {
+  font-weight: 200;
+  font-size: 35px;
+  line-height: .52;
+  font-family: 'Oswald', sans-serif;
+}
+
+.fonts {
+  width: 45%;
+  display: inline-block;
+  padding: 15px;
+  line-height: 1.8;
+}
+
+.incon-head{
+  border-bottom: 1px dashed #d3d3d3;
+  font-size: 25px;
+  font-style: bold;
+  font-family: 'Inconsolata', san-serif;
+
+}
+
+.incon-bod{
+  font-size: 15px;
+  font-family: 'Inconsolata', san-serif;
+  padding-top: 10px;
+}
+
+.labra-head{
+  border-bottom: 1px dashed #d3d3d3;
+  font-size: 25px;
+  font-style: bold;
+  font-family: 'Labrada', serif;
+
+}
+
+.labra-bod{
+  font-size: 15px;
+  font-family: 'Labrada', serif;
+  padding-top: 10px;
+}
+
+.gloock-head{
+  border-bottom: 1px dashed #d3d3d3;
+  font-size: 25px;
+  font-style: bold;
+  font-family: 'Gloock', san-serif;
+
+}
+
+.gloock-bod{
+  font-size: 14px;
+  font-family: 'Gloock', san-serif;
+  padding-top: 10px;
+}
+
+.os-head{
+  border-bottom: 1px dashed #d3d3d3;
+  font-size: 25px;
+  font-style: bold;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.os-bod{
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+  padding-top: 10px;
+}
+
+.text-styles {
+  width: 100%;
+  font-size: 18px;
+  font-family: 'Inconsolata', san-serif;
+  padding: 10px 15px;
+}
+
+.text-header{
+  font-size: 25px;
+  font-weight: 700;
+}
